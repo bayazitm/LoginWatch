@@ -223,7 +223,7 @@ Run on Windows from the repository folder:
 
 ```powershell
 .\.venv\Scripts\python.exe -m pip install --upgrade pyinstaller
-.\.venv\Scripts\python.exe -m PyInstaller --clean --noconfirm --onefile --windowed --name LoginWatch --paths src run_gui.py
+.\.venv\Scripts\python.exe -m PyInstaller --clean --noconfirm --onefile --windowed --name LoginWatch --paths src --icon "assets\loginwatch.ico" --add-data "assets;assets" run_gui.py
 ```
 
 The executable is created at:
