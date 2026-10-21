@@ -1,0 +1,30 @@
+# Python environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Test files generated automatically
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Package metadata
+*.egg-info/
+
+# Build output
+build/
+dist/
+
+# Local logs and reports
+logs/
+reports/
+
+# Editor settings
+.vscode/
+.idea/
+
+# Windows files
+Thumbs.db
+Desktop.ini
