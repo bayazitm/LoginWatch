@@ -18,6 +18,8 @@ Choose a log file, review detected patterns, and export a JSON report.
 
 ## Download and Run
 
+[Download LoginWatch for Windows](https://github.com/bayazitm/LoginWatch/releases/latest)
+
 The Windows executable is distributed through this repository's
 **Releases** section.
 
